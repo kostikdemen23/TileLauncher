@@ -1,0 +1,6 @@
+{
+  "name": "ИИ-агент",
+  "description": "Чат с Grok / OpenAI-совместимым API",
+  "category": "утилиты",
+  "icon": "AI"
+}

@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "ai_agent",
+      "name": "ИИ-агент",
+      "path": "ai_agent",
+      "description": "Чат с API",
+      "category": "утилиты",
+      "icon": "AI"
+    }
+  ]
+}
